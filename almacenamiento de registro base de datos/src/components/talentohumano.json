@@ -1,0 +1,7 @@
+
+{
+    "personas": {"nombre":"Jeff Weiner ", "papel":"CEO", "año":"5 Años" , "frase":"ok" , "image":"https://www.pngitem.com/pimgs/m/345-3453347_men-s-business-suit-imagen-de-hombre-traje.png"},
+    "personas":{"nombre":"Tim Cook", "papel":"CIO" , "año":"3 Años","frase":"ok","image":"https://pngscreativos.files.wordpress.com/2015/10/hombre-traje-chico.png"},
+    "personas":{"nombre":"Richard Branson", "papel":"CTO", "año":"3 Años","frase":"ok", "image":"https://www.seekpng.com/png/detail/249-2491837_woman-suit-png-mujer-con-traje-png.png"}
+
+}   
